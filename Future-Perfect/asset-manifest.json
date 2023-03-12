@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "./Template-Hero/static/js/main.b021cf86.js",
-    "index.html": "./Template-Hero/index.html",
-    "main.b021cf86.js.map": "./Template-Hero/static/js/main.b021cf86.js.map"
+    "main.js": "/static/js/main.b021cf86.js",
+    "index.html": "/index.html",
+    "main.b021cf86.js.map": "/static/js/main.b021cf86.js.map"
   },
   "entrypoints": [
     "static/js/main.b021cf86.js"
